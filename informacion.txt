@@ -1,0 +1,11 @@
+Relizar un programa que permita leer e imprimir el promedio 
+Goals
+y 
+Height
+
+del conjunto de datos
+
+Las cabeceras de cada columna son:
+
+Numero|FIFADisplayName|Country|LastName|FirstName|ShirtName|DOB|POS|Club|Height|Caps|Goals
+
